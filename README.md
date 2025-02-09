@@ -17,7 +17,6 @@
 
 ## 🚀 Current Focus  
 🔹 **Learning:** JavaScript, React, Tailwind CSS, ReactJs 
-🔹 **Projects:** [simon]https://github.com/sonachhi/simon-game, [ocr]https://github.com/sonachhi/OCR-  
 🔹 **Goal:** Build **stunning & responsive** web experiences  
 
 ---
